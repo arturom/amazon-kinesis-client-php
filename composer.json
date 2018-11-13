@@ -2,7 +2,7 @@
   "name": "arturom/kcl-php",
   "description": "Amazon Kinesis Client Library for PHP",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Arturo Mejia"
